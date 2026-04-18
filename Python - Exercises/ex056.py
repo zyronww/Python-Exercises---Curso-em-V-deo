@@ -1,4 +1,4 @@
-somaidades = hmaisvelho = maisvelho = mulhermenos20 = 0
+somaidades = mulhermenos20 = 0
 for c in range (1, 5):
     print('_'*5,f'{c}ª Pessoa', '_'*5)
     nome = input('Nome: ')
